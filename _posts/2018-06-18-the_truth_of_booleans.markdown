@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The Truth of Booleans"
+title:      "The Truth About Booleans"
 date:       2018-06-18 23:07:19 -0400
 permalink:  the_truth_of_booleans
 ---
