@@ -20,6 +20,6 @@ end
 ```
 
 
-In the above example, if cat==cute is true, it will output "Meow". If cat==cute is a false statement, it will output "I am not a cat".
+In the above example, if cat==cute is a true statement, it will output "Meow". If cat==cute is a false statement, it will output "I am not a cat". In this case, the output would be "Meow", because the cat is obviously cute.
 
 The beauty of booleans lies in their ability to enact powerful control flow on code using a simple true and false data type.
