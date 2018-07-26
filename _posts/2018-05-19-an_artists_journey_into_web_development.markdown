@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "An Artist's Journey into Web Development"
+title:      "The Artist and the Developer"
 date:       2018-05-19 21:46:38 -0400
 permalink:  an_artists_journey_into_web_development
 ---
