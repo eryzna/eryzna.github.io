@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Meta of Metaprogramming"
-date:       2018-07-26 17:34:23 +0000
+date:       2018-07-26 13:34:24 -0400
 permalink:  the_meta_of_metaprogramming
 ---
 
